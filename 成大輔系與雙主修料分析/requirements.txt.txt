@@ -1,0 +1,5 @@
+python==3.6
+Anaconda==5.2.0
+pandas==0.20.1
+numpy==1.13.1
+matplotlib==2.0.2
